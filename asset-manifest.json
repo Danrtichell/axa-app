@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Danrtichell/axa-app.git/static/css/main.5f361e03.chunk.css",
-    "main.js": "/Danrtichell/axa-app.git/static/js/main.cfc05f28.chunk.js",
-    "main.js.map": "/Danrtichell/axa-app.git/static/js/main.cfc05f28.chunk.js.map",
-    "runtime-main.js": "/Danrtichell/axa-app.git/static/js/runtime-main.6156c516.js",
-    "runtime-main.js.map": "/Danrtichell/axa-app.git/static/js/runtime-main.6156c516.js.map",
-    "static/css/2.4c4477be.chunk.css": "/Danrtichell/axa-app.git/static/css/2.4c4477be.chunk.css",
-    "static/js/2.da190201.chunk.js": "/Danrtichell/axa-app.git/static/js/2.da190201.chunk.js",
-    "static/js/2.da190201.chunk.js.map": "/Danrtichell/axa-app.git/static/js/2.da190201.chunk.js.map",
-    "index.html": "/Danrtichell/axa-app.git/index.html",
-    "precache-manifest.fe08e4d61fdfe9cfa290e30bee77994e.js": "/Danrtichell/axa-app.git/precache-manifest.fe08e4d61fdfe9cfa290e30bee77994e.js",
-    "service-worker.js": "/Danrtichell/axa-app.git/service-worker.js",
-    "static/css/2.4c4477be.chunk.css.map": "/Danrtichell/axa-app.git/static/css/2.4c4477be.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/Danrtichell/axa-app.git/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.da190201.chunk.js.LICENSE.txt": "/Danrtichell/axa-app.git/static/js/2.da190201.chunk.js.LICENSE.txt"
+    "main.css": "/axa-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/axa-app/static/js/main.7304e989.chunk.js",
+    "main.js.map": "/axa-app/static/js/main.7304e989.chunk.js.map",
+    "runtime-main.js": "/axa-app/static/js/runtime-main.dc2bc9a7.js",
+    "runtime-main.js.map": "/axa-app/static/js/runtime-main.dc2bc9a7.js.map",
+    "static/css/2.4c4477be.chunk.css": "/axa-app/static/css/2.4c4477be.chunk.css",
+    "static/js/2.aba08c71.chunk.js": "/axa-app/static/js/2.aba08c71.chunk.js",
+    "static/js/2.aba08c71.chunk.js.map": "/axa-app/static/js/2.aba08c71.chunk.js.map",
+    "index.html": "/axa-app/index.html",
+    "precache-manifest.5e5cd6a9f275c68755e950eb77e28dc6.js": "/axa-app/precache-manifest.5e5cd6a9f275c68755e950eb77e28dc6.js",
+    "service-worker.js": "/axa-app/service-worker.js",
+    "static/css/2.4c4477be.chunk.css.map": "/axa-app/static/css/2.4c4477be.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/axa-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.aba08c71.chunk.js.LICENSE.txt": "/axa-app/static/js/2.aba08c71.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6156c516.js",
+    "static/js/runtime-main.dc2bc9a7.js",
     "static/css/2.4c4477be.chunk.css",
-    "static/js/2.da190201.chunk.js",
+    "static/js/2.aba08c71.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.cfc05f28.chunk.js"
+    "static/js/main.7304e989.chunk.js"
   ]
 }
